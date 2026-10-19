@@ -1,0 +1,7 @@
+﻿streamlit
+googletrans==4.0.0-rc1
+python-bidi
+arabic-reshaper
+moviepy
+legacy-cgi
+openai-whisper
